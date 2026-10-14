@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+<title>热点速览</title>
+<link>https://chechebecomestrong.github.io/podcast/</link>
+<language>zh-cn</language>
+<description>晓雯和浩然带你速览每天的热点新闻。</description>
+<itunes:author>Yully Che</itunes:author>
+<itunes:image href="https://chechebecomestrong.github.io/podcast/cover.jpg"/>
+<itunes:category text="News"/>
+<itunes:explicit>false</itunes:explicit>
+<item>
+<title>2026年10月14日 热点速览</title>
+<description>中美经贸交锋、A股港股与芯片股下跌、英伟达加码欧洲、黄金创新高、苹果新品、摩根大通谈AI代理。</description>
+<enclosure url="https://chechebecomestrong.github.io/podcast/episodes/2026-10-14.mp3" length="1906220" type="audio/mpeg"/>
+<guid isPermaLink="false">rdsl-2026-10-14</guid>
+<pubDate>Wed, 14 Oct 2026 16:00:00 +0800</pubDate>
+<itunes:duration>238</itunes:duration>
+</item>
+</channel>
+</rss>
