@@ -10,6 +10,15 @@
 <itunes:category text="News"/>
 <itunes:explicit>false</itunes:explicit>
 <item>
+<title>2026年11月26日 热点速览</title>
+<description>本期关注神舟二十四号成功发射及首位外籍航天员驻站、党内法规工作指示、新一代通信网建设方案、全球央行议息与成品油调价，以及广西发现丹尼索瓦人化石。</description>
+<enclosure url="https://chechebecomestrong.github.io/podcast/episodes/2026-11-26.mp3" length="1895084" type="audio/mpeg"/>
+<guid isPermaLink="false">rdsl-2026-11-26</guid>
+<pubDate>Thu, 26 Nov 2026 15:00:00 +0800</pubDate>
+<itunes:duration>237</itunes:duration>
+</item>
+
+<item>
 <title>2026年11月25日 热点速览</title>
 <description>本期关注欧盟汽车贸易措施、商务部出口管制调整、央行流动性操作、小米财报及全球市场动态。</description>
 <enclosure url="https://chechebecomestrong.github.io/podcast/episodes/2026-11-25.mp3" length="1550252" type="audio/mpeg"/>
